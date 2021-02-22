@@ -1,0 +1,3 @@
+Que: What is the difference between cookie and session variables?
+
+Ans: Cookie variables are stored on the users/clients browser while session variables are stored on the server.
